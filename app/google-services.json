@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641658466784",
+    "project_id": "fcm-task-2a502",
+    "storage_bucket": "fcm-task-2a502.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641658466784:android:2ef12a1ad1dfe8dc72bb85",
+        "android_client_info": {
+          "package_name": "com.arunabha.fcmtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EWS3mTUpWoCfEEkqjzTbIq-IuxRDkf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
